@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/slider-swiper%20/static/css/main.dc33bbe0.css",
-    "main.js": "/slider-swiper%20/static/js/main.ad7b5f67.js",
-    "static/js/787.92e6f27d.chunk.js": "/slider-swiper%20/static/js/787.92e6f27d.chunk.js",
-    "static/media/camphoto_1297389768.jpeg": "/slider-swiper%20/static/media/camphoto_1297389768.87a99497e9d08c8f85bf.jpeg",
-    "static/media/camphoto_1594243340.jpeg": "/slider-swiper%20/static/media/camphoto_1594243340.167b3b830044237b6cc4.jpeg",
-    "static/media/camphoto_341603450.jpeg": "/slider-swiper%20/static/media/camphoto_341603450.d91c0a06db94028f630c.jpeg",
-    "static/media/IMG_8056.jpeg": "/slider-swiper%20/static/media/IMG_8056.16bc6dce291ef4ed803a.jpeg",
-    "static/media/camphoto_1804928587.jpeg": "/slider-swiper%20/static/media/camphoto_1804928587.8279e4ba1c016bdc72ed.jpeg",
-    "static/media/IMG_2039.jpeg": "/slider-swiper%20/static/media/IMG_2039.a7b9f52ba821dea2c464.jpeg",
-    "static/media/logo.svg": "/slider-swiper%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/slider-swiper%20/index.html",
-    "main.dc33bbe0.css.map": "/slider-swiper%20/static/css/main.dc33bbe0.css.map",
-    "main.ad7b5f67.js.map": "/slider-swiper%20/static/js/main.ad7b5f67.js.map",
-    "787.92e6f27d.chunk.js.map": "/slider-swiper%20/static/js/787.92e6f27d.chunk.js.map"
+    "main.css": "/slider-swiper/static/css/main.dc33bbe0.css",
+    "main.js": "/slider-swiper/static/js/main.b200a7b1.js",
+    "static/js/787.92e6f27d.chunk.js": "/slider-swiper/static/js/787.92e6f27d.chunk.js",
+    "static/media/camphoto_1297389768.jpeg": "/slider-swiper/static/media/camphoto_1297389768.87a99497e9d08c8f85bf.jpeg",
+    "static/media/camphoto_1594243340.jpeg": "/slider-swiper/static/media/camphoto_1594243340.167b3b830044237b6cc4.jpeg",
+    "static/media/camphoto_341603450.jpeg": "/slider-swiper/static/media/camphoto_341603450.d91c0a06db94028f630c.jpeg",
+    "static/media/IMG_8056.jpeg": "/slider-swiper/static/media/IMG_8056.16bc6dce291ef4ed803a.jpeg",
+    "static/media/camphoto_1804928587.jpeg": "/slider-swiper/static/media/camphoto_1804928587.8279e4ba1c016bdc72ed.jpeg",
+    "static/media/IMG_2039.jpeg": "/slider-swiper/static/media/IMG_2039.a7b9f52ba821dea2c464.jpeg",
+    "static/media/logo.svg": "/slider-swiper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/slider-swiper/index.html",
+    "main.dc33bbe0.css.map": "/slider-swiper/static/css/main.dc33bbe0.css.map",
+    "main.b200a7b1.js.map": "/slider-swiper/static/js/main.b200a7b1.js.map",
+    "787.92e6f27d.chunk.js.map": "/slider-swiper/static/js/787.92e6f27d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc33bbe0.css",
-    "static/js/main.ad7b5f67.js"
+    "static/js/main.b200a7b1.js"
   ]
 }
