@@ -1,0 +1,68 @@
+#app {
+    height: 100%;
+}
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 100vh;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid red;
+    height: 150px;
+
+
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.slider-container {
+    position: relative;
+}
+
+.slider-container .swiper-button-next,
+.slider-container .swiper-button-prev {
+    position: absolute;
+ top: 30%
+
+}
+
+.slider-container .swiper-button-prev {
+left: 30%;
+}
+
+.slider-container .swiper-button-next {
+    right: 10%;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50px;
+
+}
